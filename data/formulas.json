@@ -1,0 +1,86 @@
+[
+  {
+    "id": "keishibukuryogan",
+    "name": "桂枝茯苓丸",
+    "category": "血行改善・冷え・瘀血傾向",
+    "description": "冷えのぼせ、下腹部痛、肩こりなど血行不良が疑われるときに使われることがあります。",
+    "tags": ["cold", "stiffShoulders", "headache", "fatigue"]
+  },
+  {
+    "id": "tokishakuyakusan",
+    "name": "当帰芍薬散",
+    "category": "冷え・貧血傾向・むくみ",
+    "description": "冷えやむくみ、疲れやすさを伴う体質に使われることがあります。",
+    "tags": ["cold", "edema", "fatigue", "dizziness"]
+  },
+  {
+    "id": "kamishoyosan",
+    "name": "加味逍遙散",
+    "category": "ストレス・イライラ・のぼせ",
+    "description": "ストレス関連の不調や気分の波、ほてりを伴う場合に使われることがあります。",
+    "tags": ["stress", "irritability", "insomnia", "headache"]
+  },
+  {
+    "id": "rikkunshito",
+    "name": "六君子湯",
+    "category": "胃腸虚弱・食欲低下",
+    "description": "胃もたれ、食欲低下、疲労感などに使われることがあります。",
+    "tags": ["poorAppetite", "fatigue", "nausea"]
+  },
+  {
+    "id": "hochuekkito",
+    "name": "補中益気湯",
+    "category": "強い倦怠感・気力低下",
+    "description": "長引く疲労感や体力低下が目立つ場合に使われることがあります。",
+    "tags": ["fatigue", "poorAppetite", "cold"]
+  },
+  {
+    "id": "daiokanzoto",
+    "name": "大黄甘草湯",
+    "category": "便秘（実証寄り）",
+    "description": "便秘に対して使われることがある処方です。",
+    "tags": ["constipation", "abdominalFullness"]
+  },
+  {
+    "id": "junchoto",
+    "name": "潤腸湯",
+    "category": "乾燥傾向の便秘",
+    "description": "乾燥傾向や高齢者の便秘などで使われることがあります。",
+    "tags": ["constipation", "dryness", "fatigue"]
+  },
+  {
+    "id": "goreisan",
+    "name": "五苓散",
+    "category": "水分代謝・むくみ・頭痛",
+    "description": "天候で悪化する頭痛、むくみ、口渇などに使われることがあります。",
+    "tags": ["edema", "headache", "dizziness"]
+  },
+  {
+    "id": "shoseiryuto",
+    "name": "小青竜湯",
+    "category": "水様鼻汁・冷え",
+    "description": "冷えを伴う鼻水やアレルギー様症状で使われることがあります。",
+    "tags": ["cold", "runnyNose", "cough"]
+  },
+  {
+    "id": "bakumondoto",
+    "name": "麦門冬湯",
+    "category": "乾いた咳・咽喉乾燥",
+    "description": "乾いた咳や喉の乾燥感に使われることがあります。",
+    "tags": ["dryCough", "dryness"]
+  },
+  {
+    "id": "maoto",
+    "name": "麻黄湯",
+    "category": "悪寒・発熱初期",
+    "description": "悪寒が強い感冒初期に使われることがあります。",
+    "tags": ["chills", "fever", "bodyAche"]
+  },
+  {
+    "id": "kakkonto",
+    "name": "葛根湯",
+    "category": "感冒初期・肩こわばり",
+    "description": "かぜのひき始めや肩背部のこわばりに使われることがあります。",
+    "tags": ["chills", "fever", "stiffShoulders"]
+  }
+]
